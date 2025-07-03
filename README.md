@@ -29,9 +29,6 @@ This project presents a real-time **waste classification and detection system** 
 
 ## 🌍 Real-World Impact
 
-This model was successfully integrated into the operations of the **Second Life NGO**, a non-profit based in **Valencia, Spain**, focused on **beach cleaning and environmental conservation**.
-
-Despite limited training data and epochs, the model performed **very well on the specific classes most relevant** to the NGO’s mission — making it a practical and targeted solution.
 
 **With this model:**
 - 🧹 Volunteers can scan beaches **in real time**
